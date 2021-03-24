@@ -36,7 +36,7 @@
             <td><a href="#"><img alt="jQuery" title="jQuery" height="28px"
                         src="https://creativo-websolutions.com/my_files/2020/04/iconfinder_jquery_3069646.png" /></a></td>
          <td><a href="#"><img alt="Next.js" title="Next.js" height="28px"
-                        src="https://www.honext.io/static/images/next_logo.png" /></a></td></tr>
+                        src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" /></a></td></tr>
          </tr>
         <tr>
             <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
