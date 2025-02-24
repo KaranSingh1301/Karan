@@ -1,6 +1,6 @@
 <div align="center"> 
 <h1 align="center">Hi👋, I am Karan Singh</h1>
-<h3 align="center">Currently pursuing Software Engineering From Delhi Technological University.<br> Curious MERN stack Developer🔥 Love Developing and contributing in web application projects🌈<br> Willing to do a lot Open source Contributions🌟<h3>
+<h3 align="center">Currently working as Software Engineering 2 at Adobe. Pursued my bachelors in software engineering from Delhi Technical University in 2023.<br> Curious MERN stack Developer🔥 Love Developing and contributing in web application projects🌈<br> Willing to do a lot Open source Contributions🌟<h3>
 </div>
 
 <p>📌Connent me<p>
